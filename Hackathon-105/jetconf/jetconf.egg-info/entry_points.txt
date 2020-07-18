@@ -1,3 +1,0 @@
-[console_scripts]
-jetconf = jetconf.__main__:main
-

@@ -1,5 +1,0 @@
-yangson
-h2
-colorlog
-pyaml
-pytz

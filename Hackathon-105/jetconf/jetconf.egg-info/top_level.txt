@@ -1,2 +1,0 @@
-jetconf
-jetconf_jukebox
